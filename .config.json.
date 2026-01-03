@@ -1,0 +1,6 @@
+{
+  "appId": "com.aihukam.app",
+  "appName": "AI-HUKAM",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
